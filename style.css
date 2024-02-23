@@ -1,0 +1,34 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kalnia:wght@500&family=Lexend+Exa:wght@100..900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #12372A;
+    height: 100vh;
+    text-align: center;
+}
+h1{
+color: #FBFADA;
+font-family: "Kalnia", serif;
+font-weight:500;
+}
+p{
+   
+    padding: 20px 50px;
+    color: #ADBC9F;
+    font-size: 0.8rem;
+    font-family: "Lexend Exa", sans-serif;
+}
